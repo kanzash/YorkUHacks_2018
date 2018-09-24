@@ -1,5 +1,5 @@
 # YorkUHacks_2018
-## YorkU Hacks submission! Winner of the Lassonder 50/50 Challenge!
+## YorkU Hacks submission! Winner of the Lassonde 50/50 Challenge!
 ### September 23, 2018
 
 We are the Focus Finders!! We believe that quality education can be expanded to learners with unconventional learning styles. Our mission is to ensure that everyone has access to quality education that is tailored to their needs because embracing the diverse backgrounds of all people is the biggest drive to success!
