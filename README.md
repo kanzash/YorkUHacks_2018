@@ -13,3 +13,6 @@ We want to expand our project to accommodate a wide range of subjects with a spe
 
 ***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, Anemme
 
+### Instructions to Run
+
+Download package and start with landing.html
