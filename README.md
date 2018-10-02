@@ -13,6 +13,7 @@ We want to expand our project to accommodate a wide range of subjects with a spe
 Some of the different learning styles include:
 
 ![Learning Styles](LearningStyles.jpg)
+Graphic and information from Canva
 
 
 ***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, Anemme
