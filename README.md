@@ -10,6 +10,10 @@ After looking at the learning experiences of our peers, we decided that we wante
 
 We want to expand our project to accommodate a wide range of subjects with a specific target for high school students. The project can be used and accessed by anyone to ensure they are receiving high quality education regardless of their background, geographical location or socioeconomic status. Platforms such as Khan Academy are great, but are only tailored to one or two learning styles. We want to be able to incorporate lessons for everyone to get the most out of it.
 
+Some of the different learning styles include:
+
+![Learning Styles](LearningStyles.jpg)
+
 
 ***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, Anemme
 
