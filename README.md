@@ -16,7 +16,7 @@ Some of the different learning styles include:
 Graphic and information from Canva
 
 
-***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, Anemme
+***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, [Anemme](https://www.linkedin.com/in/anemmeabasi/)
 
 ### Instructions to Run
 
