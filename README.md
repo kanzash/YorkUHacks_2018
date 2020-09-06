@@ -21,3 +21,5 @@ Graphic and information from Canva
 ### Instructions to Run
 
 Download package and start with landing.html
+
+See it live on Netlify -> https://focusfinder.netlify.app/about.html
